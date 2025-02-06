@@ -14,6 +14,7 @@
     <nav>
         <ul>
             <li><a href="index.php">Accueil</a></li>
+            <li><a href="add_work_form.php">Ajouter une œuvre</a></li>
         </ul>
     </nav>
 </header>
